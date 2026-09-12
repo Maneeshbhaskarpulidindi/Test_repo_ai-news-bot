@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  news-aggregator:
+    build: .
+    container_name: ai_news_bot
+    # This tells Docker to load your existing API keys
+    env_file:
+      - .env
