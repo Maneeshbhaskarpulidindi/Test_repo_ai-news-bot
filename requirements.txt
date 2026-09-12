@@ -25,3 +25,9 @@ typing-extensions==4.16.0
 typing-inspection==0.4.4
 urllib3==2.7.0
 youtube-transcript-api==1.2.4
+requests
+beautifulsoup4
+openai
+python-dotenv
+groq
+yt-dlp
